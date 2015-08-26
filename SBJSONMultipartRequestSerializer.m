@@ -5,7 +5,6 @@
 //
 
 #import "SBJSONMultipartRequestSerializer.h"
-#import "AFURLRequestSerialization.h"
 
 // Need to re-declare this interface
 @interface AFStreamingMultipartFormData : NSObject <AFMultipartFormData>
