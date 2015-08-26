@@ -4,7 +4,7 @@
 //  Copyright (c) 2015 Skye Book. All rights reserved.
 //
 
-#import "AFURLRequestSerialization.h"
+#import <AFNetworking/AFURLRequestSerialization.h>
 
 @interface SBJSONMultipartRequestSerializer : AFJSONRequestSerializer
 
